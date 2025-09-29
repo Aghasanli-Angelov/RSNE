@@ -2,9 +2,7 @@
 
 This repository contains the official implementation of the paper:
 
-> Aghasanli, A., & Angelov, P. (2025). Recursive SNE: Fast prototype-based t-SNE for large-scale and online data. *Transactions on Machine Learning Research (TMLR)*. 
-
-> [OpenReview page](https://openreview.net/forum?id=7wCPAFMDWM)
+> Aghasanli, A., & Angelov, P. (2025). Recursive SNE: Fast prototype-based t-SNE for large-scale and online data. *Transactions on Machine Learning Research (TMLR)*. [OpenReview page](https://openreview.net/forum?id=7wCPAFMDWM)
 
 **Recursive SNE (RSNE)** provides fast, incremental 2‑D (or 3-D) visualizations by seeding new points near **cluster centroids** learned from an initial batch, then applying a few light t‑SNE–style refinement steps.
 
