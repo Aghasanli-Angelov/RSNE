@@ -132,11 +132,13 @@ Both variants target similar asymptotic costs for the refinement step; Bi‑RSNE
 If you find this repository useful, please cite:
 
 ```bibtex
-@article{rsne2025,
-  title={Recursive SNE: Fast Prototype-Based t-SNE for Large-Scale and Online Data},
-  author={Aghasanli, Agil and Angelov, Plamen},
-  journal={Transactions on Machine Learning Research (TMLR)},
-  year={2025},
-  note={Accepted, camera-ready pending},
-  url={https://openreview.net/forum?id=7wCPAFMDWM}
+@article{
+aghasanli2025recursive,
+title={Recursive {SNE}: Fast Prototype-Based t-{SNE} for Large-Scale and Online Data},
+author={Agil Aghasanli and Plamen P Angelov},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
+year={2025},
+url={https://openreview.net/forum?id=7wCPAFMDWM},
+note={}
 }
